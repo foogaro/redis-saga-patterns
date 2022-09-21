@@ -46,4 +46,4 @@ The code is available as branch for each Saga pattern implementation:
 
 Keep in mind that for the Choreography pattern there will be more than one implementation to show different approaches with different drawbacks and benefits.
 
-[^1] https://microservices.io/patterns/data/saga.html
+[^1]: https://microservices.io/patterns/data/saga.html
